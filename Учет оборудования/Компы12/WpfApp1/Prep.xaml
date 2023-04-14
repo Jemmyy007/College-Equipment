@@ -1,0 +1,15 @@
+﻿<Window x:Class="WpfApp1.Prep"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="Prep" Height="450" Width="800" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <DataGrid x:Name="GridClass" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="64,22,64,187"/>
+        <TextBox x:Name="txtSearch" HorizontalAlignment="Left" Margin="116,267,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="589" TextChanged="TextBox_TextChanged"/>
+        <Label Content="Поиск:" HorizontalAlignment="Left" Margin="64,263,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

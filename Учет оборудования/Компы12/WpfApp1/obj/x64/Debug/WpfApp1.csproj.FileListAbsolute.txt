@@ -1,0 +1,450 @@
+C:\Users\user\Desktop\ljgb\Новая папка\Компы\WpfApp1\bin\x64\Debug\ДопингБД.accdb
+C:\Users\user\Desktop\ljgb\Новая папка\Компы\WpfApp1\bin\x64\Debug\WpfApp1.exe.config
+C:\Users\user\Desktop\ljgb\Новая папка\Компы\WpfApp1\bin\x64\Debug\WpfApp1.exe
+C:\Users\user\Desktop\ljgb\Новая папка\Компы\WpfApp1\bin\x64\Debug\WpfApp1.pdb
+C:\Users\user\Desktop\ljgb\Новая папка\Компы\WpfApp1\obj\x64\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ljgb\Новая папка\Компы\WpfApp1\obj\x64\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\ljgb\Новая папка\Компы\WpfApp1\obj\x64\Debug\doping8.g.cs
+C:\Users\user\Desktop\ljgb\Новая папка\Компы\WpfApp1\obj\x64\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\ljgb\Новая папка\Компы\WpfApp1\obj\x64\Debug\vxod1.g.cs
+C:\Users\user\Desktop\ljgb\Новая папка\Компы\WpfApp1\obj\x64\Debug\vxod2.g.cs
+C:\Users\user\Desktop\ljgb\Новая папка\Компы\WpfApp1\obj\x64\Debug\vxod3.g.cs
+C:\Users\user\Desktop\ljgb\Новая папка\Компы\WpfApp1\obj\x64\Debug\App.g.cs
+C:\Users\user\Desktop\ljgb\Новая папка\Компы\WpfApp1\obj\x64\Debug\WpfApp1_Content.g.cs
+C:\Users\user\Desktop\ljgb\Новая папка\Компы\WpfApp1\obj\x64\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\user\Desktop\ljgb\Новая папка\Компы\WpfApp1\obj\x64\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\user\Desktop\ljgb\Новая папка\Компы\WpfApp1\obj\x64\Debug\doping8.baml
+C:\Users\user\Desktop\ljgb\Новая папка\Компы\WpfApp1\obj\x64\Debug\MainWindow.baml
+C:\Users\user\Desktop\ljgb\Новая папка\Компы\WpfApp1\obj\x64\Debug\vxod1.baml
+C:\Users\user\Desktop\ljgb\Новая папка\Компы\WpfApp1\obj\x64\Debug\vxod2.baml
+C:\Users\user\Desktop\ljgb\Новая папка\Компы\WpfApp1\obj\x64\Debug\vxod3.baml
+C:\Users\user\Desktop\ljgb\Новая папка\Компы\WpfApp1\obj\x64\Debug\WpfApp1.g.resources
+C:\Users\user\Desktop\ljgb\Новая папка\Компы\WpfApp1\obj\x64\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\user\Desktop\ljgb\Новая папка\Компы\WpfApp1\obj\x64\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\user\Desktop\ljgb\Новая папка\Компы\WpfApp1\obj\x64\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ljgb\Новая папка\Компы\WpfApp1\obj\x64\Debug\WpfApp1.exe
+C:\Users\user\Desktop\ljgb\Новая папка\Компы\WpfApp1\obj\x64\Debug\WpfApp1.pdb
+C:\Users\user\Desktop\ljgb\Новая папка\Компы\WpfApp1\obj\x64\Debug\doping1.g.cs
+C:\Users\user\Desktop\ljgb\Новая папка\Компы\WpfApp1\obj\x64\Debug\doping3.g.cs
+C:\Users\user\Desktop\ljgb\Новая папка\Компы\WpfApp1\obj\x64\Debug\doping1.baml
+C:\Users\user\Desktop\ljgb\Новая папка\Компы\WpfApp1\obj\x64\Debug\doping3.baml
+D:\C#\Допинг!\Компы\WpfApp1\bin\x64\Debug\ДопингБД.accdb
+D:\C#\Допинг!\Компы\WpfApp1\bin\x64\Debug\WpfApp1.exe.config
+D:\C#\Допинг!\Компы\WpfApp1\bin\x64\Debug\WpfApp1.exe
+D:\C#\Допинг!\Компы\WpfApp1\bin\x64\Debug\WpfApp1.pdb
+D:\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\WpfApp1.csproj.AssemblyReference.cache
+D:\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+D:\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\doping1.g.cs
+D:\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\doping3.g.cs
+D:\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\doping8.g.cs
+D:\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\MainWindow.g.cs
+D:\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\vxod1.g.cs
+D:\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\vxod2.g.cs
+D:\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\vxod3.g.cs
+D:\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\App.g.cs
+D:\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\WpfApp1_Content.g.cs
+D:\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\WpfApp1_MarkupCompile.cache
+D:\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\WpfApp1_MarkupCompile.lref
+D:\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\doping1.baml
+D:\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\doping3.baml
+D:\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\doping8.baml
+D:\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\MainWindow.baml
+D:\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\vxod1.baml
+D:\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\vxod2.baml
+D:\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\vxod3.baml
+D:\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\WpfApp1.g.resources
+D:\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\WpfApp1.Properties.Resources.resources
+D:\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\WpfApp1.exe
+D:\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\WpfApp1.pdb
+E:\C#\Допинг!\Компы\WpfApp1\bin\x64\Debug\ДопингБД.accdb
+E:\C#\Допинг!\Компы\WpfApp1\bin\x64\Debug\WpfApp1.exe.config
+E:\C#\Допинг!\Компы\WpfApp1\bin\x64\Debug\WpfApp1.exe
+E:\C#\Допинг!\Компы\WpfApp1\bin\x64\Debug\WpfApp1.pdb
+E:\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\WpfApp1.csproj.AssemblyReference.cache
+E:\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+E:\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\doping1.g.cs
+E:\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\doping3.g.cs
+E:\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\doping8.g.cs
+E:\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\MainWindow.g.cs
+E:\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\vxod1.g.cs
+E:\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\vxod2.g.cs
+E:\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\vxod3.g.cs
+E:\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\App.g.cs
+E:\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\WpfApp1_Content.g.cs
+E:\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\WpfApp1_MarkupCompile.cache
+E:\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\WpfApp1_MarkupCompile.lref
+E:\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\doping1.baml
+E:\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\doping3.baml
+E:\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\doping8.baml
+E:\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\MainWindow.baml
+E:\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\vxod1.baml
+E:\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\vxod2.baml
+E:\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\vxod3.baml
+E:\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\WpfApp1.g.resources
+E:\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\WpfApp1.Properties.Resources.resources
+E:\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\WpfApp1.csproj.GenerateResource.cache
+E:\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+E:\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\WpfApp1.exe
+E:\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\WpfApp1.pdb
+E:\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\Bespereboy.g.cs
+E:\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\Block.g.cs
+E:\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\doping2.g.cs
+E:\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\doping4.g.cs
+E:\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\Keyboard.g.cs
+E:\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\Komplekt.g.cs
+E:\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\Mause.g.cs
+E:\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\Monitor.g.cs
+E:\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\Bespereboy.baml
+E:\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\Block.baml
+E:\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\doping2.baml
+E:\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\doping4.baml
+E:\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\Keyboard.baml
+E:\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\Komplekt.baml
+E:\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\Mause.baml
+E:\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\Monitor.baml
+C:\Users\user\Desktop\HTPTHDYFZ RJGBZ 14.03.23\C#\Допинг!\Компы\WpfApp1\bin\x64\Debug\ДопингБД.accdb
+C:\Users\user\Desktop\HTPTHDYFZ RJGBZ 14.03.23\C#\Допинг!\Компы\WpfApp1\bin\x64\Debug\WpfApp1.exe.config
+C:\Users\user\Desktop\HTPTHDYFZ RJGBZ 14.03.23\C#\Допинг!\Компы\WpfApp1\bin\x64\Debug\WpfApp1.exe
+C:\Users\user\Desktop\HTPTHDYFZ RJGBZ 14.03.23\C#\Допинг!\Компы\WpfApp1\bin\x64\Debug\WpfApp1.pdb
+C:\Users\user\Desktop\HTPTHDYFZ RJGBZ 14.03.23\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\HTPTHDYFZ RJGBZ 14.03.23\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\HTPTHDYFZ RJGBZ 14.03.23\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\Bespereboy.g.cs
+C:\Users\user\Desktop\HTPTHDYFZ RJGBZ 14.03.23\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\Block.g.cs
+C:\Users\user\Desktop\HTPTHDYFZ RJGBZ 14.03.23\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\doping1.g.cs
+C:\Users\user\Desktop\HTPTHDYFZ RJGBZ 14.03.23\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\doping2.g.cs
+C:\Users\user\Desktop\HTPTHDYFZ RJGBZ 14.03.23\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\doping3.g.cs
+C:\Users\user\Desktop\HTPTHDYFZ RJGBZ 14.03.23\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\doping4.g.cs
+C:\Users\user\Desktop\HTPTHDYFZ RJGBZ 14.03.23\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\doping8.g.cs
+C:\Users\user\Desktop\HTPTHDYFZ RJGBZ 14.03.23\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\Keyboard.g.cs
+C:\Users\user\Desktop\HTPTHDYFZ RJGBZ 14.03.23\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\Komplekt.g.cs
+C:\Users\user\Desktop\HTPTHDYFZ RJGBZ 14.03.23\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\HTPTHDYFZ RJGBZ 14.03.23\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\Mause.g.cs
+C:\Users\user\Desktop\HTPTHDYFZ RJGBZ 14.03.23\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\Monitor.g.cs
+C:\Users\user\Desktop\HTPTHDYFZ RJGBZ 14.03.23\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\vxod1.g.cs
+C:\Users\user\Desktop\HTPTHDYFZ RJGBZ 14.03.23\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\vxod2.g.cs
+C:\Users\user\Desktop\HTPTHDYFZ RJGBZ 14.03.23\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\vxod3.g.cs
+C:\Users\user\Desktop\HTPTHDYFZ RJGBZ 14.03.23\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\App.g.cs
+C:\Users\user\Desktop\HTPTHDYFZ RJGBZ 14.03.23\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\WpfApp1_Content.g.cs
+C:\Users\user\Desktop\HTPTHDYFZ RJGBZ 14.03.23\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\user\Desktop\HTPTHDYFZ RJGBZ 14.03.23\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\user\Desktop\HTPTHDYFZ RJGBZ 14.03.23\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\Bespereboy.baml
+C:\Users\user\Desktop\HTPTHDYFZ RJGBZ 14.03.23\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\Block.baml
+C:\Users\user\Desktop\HTPTHDYFZ RJGBZ 14.03.23\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\doping1.baml
+C:\Users\user\Desktop\HTPTHDYFZ RJGBZ 14.03.23\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\doping2.baml
+C:\Users\user\Desktop\HTPTHDYFZ RJGBZ 14.03.23\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\doping3.baml
+C:\Users\user\Desktop\HTPTHDYFZ RJGBZ 14.03.23\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\doping4.baml
+C:\Users\user\Desktop\HTPTHDYFZ RJGBZ 14.03.23\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\doping8.baml
+C:\Users\user\Desktop\HTPTHDYFZ RJGBZ 14.03.23\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\Keyboard.baml
+C:\Users\user\Desktop\HTPTHDYFZ RJGBZ 14.03.23\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\Komplekt.baml
+C:\Users\user\Desktop\HTPTHDYFZ RJGBZ 14.03.23\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\MainWindow.baml
+C:\Users\user\Desktop\HTPTHDYFZ RJGBZ 14.03.23\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\Mause.baml
+C:\Users\user\Desktop\HTPTHDYFZ RJGBZ 14.03.23\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\Monitor.baml
+C:\Users\user\Desktop\HTPTHDYFZ RJGBZ 14.03.23\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\vxod1.baml
+C:\Users\user\Desktop\HTPTHDYFZ RJGBZ 14.03.23\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\vxod2.baml
+C:\Users\user\Desktop\HTPTHDYFZ RJGBZ 14.03.23\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\vxod3.baml
+C:\Users\user\Desktop\HTPTHDYFZ RJGBZ 14.03.23\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\WpfApp1.g.resources
+C:\Users\user\Desktop\HTPTHDYFZ RJGBZ 14.03.23\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\user\Desktop\HTPTHDYFZ RJGBZ 14.03.23\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\user\Desktop\HTPTHDYFZ RJGBZ 14.03.23\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\HTPTHDYFZ RJGBZ 14.03.23\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\WpfApp1.exe
+C:\Users\user\Desktop\HTPTHDYFZ RJGBZ 14.03.23\C#\Допинг!\Компы\WpfApp1\obj\x64\Debug\WpfApp1.pdb
+C:\Users\Student\Desktop\gh\Компы\WpfApp1\bin\x64\Debug\ДопингБД.accdb
+C:\Users\Student\Desktop\gh\Компы\WpfApp1\bin\x64\Debug\WpfApp1.exe.config
+C:\Users\Student\Desktop\gh\Компы\WpfApp1\bin\x64\Debug\WpfApp1.exe
+C:\Users\Student\Desktop\gh\Компы\WpfApp1\bin\x64\Debug\WpfApp1.pdb
+C:\Users\Student\Desktop\gh\Компы\WpfApp1\obj\x64\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\gh\Компы\WpfApp1\obj\x64\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Student\Desktop\gh\Компы\WpfApp1\obj\x64\Debug\Bespereboy.g.cs
+C:\Users\Student\Desktop\gh\Компы\WpfApp1\obj\x64\Debug\Block.g.cs
+C:\Users\Student\Desktop\gh\Компы\WpfApp1\obj\x64\Debug\doping1.g.cs
+C:\Users\Student\Desktop\gh\Компы\WpfApp1\obj\x64\Debug\doping2.g.cs
+C:\Users\Student\Desktop\gh\Компы\WpfApp1\obj\x64\Debug\doping3.g.cs
+C:\Users\Student\Desktop\gh\Компы\WpfApp1\obj\x64\Debug\doping4.g.cs
+C:\Users\Student\Desktop\gh\Компы\WpfApp1\obj\x64\Debug\doping8.g.cs
+C:\Users\Student\Desktop\gh\Компы\WpfApp1\obj\x64\Debug\Keyboard.g.cs
+C:\Users\Student\Desktop\gh\Компы\WpfApp1\obj\x64\Debug\Komplekt.g.cs
+C:\Users\Student\Desktop\gh\Компы\WpfApp1\obj\x64\Debug\MainWindow.g.cs
+C:\Users\Student\Desktop\gh\Компы\WpfApp1\obj\x64\Debug\Mause.g.cs
+C:\Users\Student\Desktop\gh\Компы\WpfApp1\obj\x64\Debug\Monitor.g.cs
+C:\Users\Student\Desktop\gh\Компы\WpfApp1\obj\x64\Debug\vxod1.g.cs
+C:\Users\Student\Desktop\gh\Компы\WpfApp1\obj\x64\Debug\vxod2.g.cs
+C:\Users\Student\Desktop\gh\Компы\WpfApp1\obj\x64\Debug\vxod3.g.cs
+C:\Users\Student\Desktop\gh\Компы\WpfApp1\obj\x64\Debug\App.g.cs
+C:\Users\Student\Desktop\gh\Компы\WpfApp1\obj\x64\Debug\WpfApp1_Content.g.cs
+C:\Users\Student\Desktop\gh\Компы\WpfApp1\obj\x64\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Student\Desktop\gh\Компы\WpfApp1\obj\x64\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Student\Desktop\gh\Компы\WpfApp1\obj\x64\Debug\Bespereboy.baml
+C:\Users\Student\Desktop\gh\Компы\WpfApp1\obj\x64\Debug\Block.baml
+C:\Users\Student\Desktop\gh\Компы\WpfApp1\obj\x64\Debug\doping1.baml
+C:\Users\Student\Desktop\gh\Компы\WpfApp1\obj\x64\Debug\doping2.baml
+C:\Users\Student\Desktop\gh\Компы\WpfApp1\obj\x64\Debug\doping3.baml
+C:\Users\Student\Desktop\gh\Компы\WpfApp1\obj\x64\Debug\doping4.baml
+C:\Users\Student\Desktop\gh\Компы\WpfApp1\obj\x64\Debug\doping8.baml
+C:\Users\Student\Desktop\gh\Компы\WpfApp1\obj\x64\Debug\Keyboard.baml
+C:\Users\Student\Desktop\gh\Компы\WpfApp1\obj\x64\Debug\Komplekt.baml
+C:\Users\Student\Desktop\gh\Компы\WpfApp1\obj\x64\Debug\MainWindow.baml
+C:\Users\Student\Desktop\gh\Компы\WpfApp1\obj\x64\Debug\Mause.baml
+C:\Users\Student\Desktop\gh\Компы\WpfApp1\obj\x64\Debug\Monitor.baml
+C:\Users\Student\Desktop\gh\Компы\WpfApp1\obj\x64\Debug\vxod1.baml
+C:\Users\Student\Desktop\gh\Компы\WpfApp1\obj\x64\Debug\vxod2.baml
+C:\Users\Student\Desktop\gh\Компы\WpfApp1\obj\x64\Debug\vxod3.baml
+C:\Users\Student\Desktop\gh\Компы\WpfApp1\obj\x64\Debug\WpfApp1.g.resources
+C:\Users\Student\Desktop\gh\Компы\WpfApp1\obj\x64\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Student\Desktop\gh\Компы\WpfApp1\obj\x64\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\gh\Компы\WpfApp1\obj\x64\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\gh\Компы\WpfApp1\obj\x64\Debug\WpfApp1.exe
+C:\Users\Student\Desktop\gh\Компы\WpfApp1\obj\x64\Debug\WpfApp1.pdb
+C:\Users\user\Desktop\Проект Дани\Компы12\WpfApp1\bin\x64\Debug\ДопингБД.accdb
+C:\Users\user\Desktop\Проект Дани\Компы12\WpfApp1\bin\x64\Debug\WpfApp1.exe.config
+C:\Users\user\Desktop\Проект Дани\Компы12\WpfApp1\bin\x64\Debug\WpfApp1.exe
+C:\Users\user\Desktop\Проект Дани\Компы12\WpfApp1\bin\x64\Debug\WpfApp1.pdb
+C:\Users\user\Desktop\Проект Дани\Компы12\WpfApp1\obj\x64\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Проект Дани\Компы12\WpfApp1\obj\x64\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Проект Дани\Компы12\WpfApp1\obj\x64\Debug\Bespereboy.g.cs
+C:\Users\user\Desktop\Проект Дани\Компы12\WpfApp1\obj\x64\Debug\Block.g.cs
+C:\Users\user\Desktop\Проект Дани\Компы12\WpfApp1\obj\x64\Debug\doping1.g.cs
+C:\Users\user\Desktop\Проект Дани\Компы12\WpfApp1\obj\x64\Debug\doping2.g.cs
+C:\Users\user\Desktop\Проект Дани\Компы12\WpfApp1\obj\x64\Debug\doping3.g.cs
+C:\Users\user\Desktop\Проект Дани\Компы12\WpfApp1\obj\x64\Debug\doping4.g.cs
+C:\Users\user\Desktop\Проект Дани\Компы12\WpfApp1\obj\x64\Debug\doping8.g.cs
+C:\Users\user\Desktop\Проект Дани\Компы12\WpfApp1\obj\x64\Debug\Keyboard.g.cs
+C:\Users\user\Desktop\Проект Дани\Компы12\WpfApp1\obj\x64\Debug\Komplekt.g.cs
+C:\Users\user\Desktop\Проект Дани\Компы12\WpfApp1\obj\x64\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\Проект Дани\Компы12\WpfApp1\obj\x64\Debug\Mause.g.cs
+C:\Users\user\Desktop\Проект Дани\Компы12\WpfApp1\obj\x64\Debug\Monitor.g.cs
+C:\Users\user\Desktop\Проект Дани\Компы12\WpfApp1\obj\x64\Debug\vxod1.g.cs
+C:\Users\user\Desktop\Проект Дани\Компы12\WpfApp1\obj\x64\Debug\vxod2.g.cs
+C:\Users\user\Desktop\Проект Дани\Компы12\WpfApp1\obj\x64\Debug\vxod3.g.cs
+C:\Users\user\Desktop\Проект Дани\Компы12\WpfApp1\obj\x64\Debug\App.g.cs
+C:\Users\user\Desktop\Проект Дани\Компы12\WpfApp1\obj\x64\Debug\WpfApp1_Content.g.cs
+C:\Users\user\Desktop\Проект Дани\Компы12\WpfApp1\obj\x64\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\user\Desktop\Проект Дани\Компы12\WpfApp1\obj\x64\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\user\Desktop\Проект Дани\Компы12\WpfApp1\obj\x64\Debug\Bespereboy.baml
+C:\Users\user\Desktop\Проект Дани\Компы12\WpfApp1\obj\x64\Debug\Block.baml
+C:\Users\user\Desktop\Проект Дани\Компы12\WpfApp1\obj\x64\Debug\doping1.baml
+C:\Users\user\Desktop\Проект Дани\Компы12\WpfApp1\obj\x64\Debug\doping2.baml
+C:\Users\user\Desktop\Проект Дани\Компы12\WpfApp1\obj\x64\Debug\doping3.baml
+C:\Users\user\Desktop\Проект Дани\Компы12\WpfApp1\obj\x64\Debug\doping4.baml
+C:\Users\user\Desktop\Проект Дани\Компы12\WpfApp1\obj\x64\Debug\doping8.baml
+C:\Users\user\Desktop\Проект Дани\Компы12\WpfApp1\obj\x64\Debug\Keyboard.baml
+C:\Users\user\Desktop\Проект Дани\Компы12\WpfApp1\obj\x64\Debug\Komplekt.baml
+C:\Users\user\Desktop\Проект Дани\Компы12\WpfApp1\obj\x64\Debug\MainWindow.baml
+C:\Users\user\Desktop\Проект Дани\Компы12\WpfApp1\obj\x64\Debug\Mause.baml
+C:\Users\user\Desktop\Проект Дани\Компы12\WpfApp1\obj\x64\Debug\Monitor.baml
+C:\Users\user\Desktop\Проект Дани\Компы12\WpfApp1\obj\x64\Debug\vxod1.baml
+C:\Users\user\Desktop\Проект Дани\Компы12\WpfApp1\obj\x64\Debug\vxod2.baml
+C:\Users\user\Desktop\Проект Дани\Компы12\WpfApp1\obj\x64\Debug\vxod3.baml
+C:\Users\user\Desktop\Проект Дани\Компы12\WpfApp1\obj\x64\Debug\WpfApp1.g.resources
+C:\Users\user\Desktop\Проект Дани\Компы12\WpfApp1\obj\x64\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\user\Desktop\Проект Дани\Компы12\WpfApp1\obj\x64\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Проект Дани\Компы12\WpfApp1\obj\x64\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Проект Дани\Компы12\WpfApp1\obj\x64\Debug\WpfApp1.exe
+C:\Users\user\Desktop\Проект Дани\Компы12\WpfApp1\obj\x64\Debug\WpfApp1.pdb
+C:\Users\user\Desktop\Проект Дани\Компы12\WpfApp1\bin\x64\Debug\ДопингБДDataSet.Designer.cs
+C:\Users\user\Desktop\Проект Дани\Компы12\WpfApp1\bin\x64\Debug\ДопингБДDataSet.xsc
+C:\Users\user\Desktop\Проект Дани\Компы12\WpfApp1\bin\x64\Debug\ДопингБДDataSet.xsd
+C:\Users\user\Desktop\Проект Дани\Компы12\WpfApp1\bin\x64\Debug\ДопингБДDataSet.xss
+E:\Прок\КОМПЫ\Компы12\WpfApp1\bin\x64\Debug\ДопингБДDataSet.Designer.cs
+E:\Прок\КОМПЫ\Компы12\WpfApp1\bin\x64\Debug\ДопингБДDataSet.xsc
+E:\Прок\КОМПЫ\Компы12\WpfApp1\bin\x64\Debug\ДопингБДDataSet.xsd
+E:\Прок\КОМПЫ\Компы12\WpfApp1\bin\x64\Debug\ДопингБДDataSet.xss
+E:\Прок\КОМПЫ\Компы12\WpfApp1\bin\x64\Debug\WpfApp1.exe.config
+E:\Прок\КОМПЫ\Компы12\WpfApp1\bin\x64\Debug\WpfApp1.exe
+E:\Прок\КОМПЫ\Компы12\WpfApp1\bin\x64\Debug\WpfApp1.pdb
+E:\Прок\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\WpfApp1.csproj.AssemblyReference.cache
+E:\Прок\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+E:\Прок\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\Bespereboy.g.cs
+E:\Прок\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\Block.g.cs
+E:\Прок\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\doping1.g.cs
+E:\Прок\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\doping2.g.cs
+E:\Прок\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\doping3.g.cs
+E:\Прок\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\doping4.g.cs
+E:\Прок\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\doping8.g.cs
+E:\Прок\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\Keyboard.g.cs
+E:\Прок\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\Komplekt.g.cs
+E:\Прок\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\MainWindow.g.cs
+E:\Прок\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\Mause.g.cs
+E:\Прок\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\Monitor.g.cs
+E:\Прок\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\vxod1.g.cs
+E:\Прок\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\vxod2.g.cs
+E:\Прок\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\vxod3.g.cs
+E:\Прок\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\App.g.cs
+E:\Прок\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\WpfApp1_Content.g.cs
+E:\Прок\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\WpfApp1_MarkupCompile.cache
+E:\Прок\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\WpfApp1_MarkupCompile.lref
+E:\Прок\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\Bespereboy.baml
+E:\Прок\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\Block.baml
+E:\Прок\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\doping1.baml
+E:\Прок\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\doping2.baml
+E:\Прок\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\doping3.baml
+E:\Прок\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\doping4.baml
+E:\Прок\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\doping8.baml
+E:\Прок\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\Keyboard.baml
+E:\Прок\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\Komplekt.baml
+E:\Прок\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\MainWindow.baml
+E:\Прок\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\Mause.baml
+E:\Прок\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\Monitor.baml
+E:\Прок\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\vxod1.baml
+E:\Прок\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\vxod2.baml
+E:\Прок\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\vxod3.baml
+E:\Прок\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\WpfApp1.g.resources
+E:\Прок\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\WpfApp1.Properties.Resources.resources
+E:\Прок\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\WpfApp1.csproj.GenerateResource.cache
+E:\Прок\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+E:\Прок\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\WpfApp1.exe
+E:\Прок\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\WpfApp1.pdb
+C:\Users\user\Desktop\Проект Дани\NEW\КОМПЫ\Компы12\WpfApp1\bin\x64\Debug\ДопингБДDataSet.Designer.cs
+C:\Users\user\Desktop\Проект Дани\NEW\КОМПЫ\Компы12\WpfApp1\bin\x64\Debug\ДопингБДDataSet.xsc
+C:\Users\user\Desktop\Проект Дани\NEW\КОМПЫ\Компы12\WpfApp1\bin\x64\Debug\ДопингБДDataSet.xsd
+C:\Users\user\Desktop\Проект Дани\NEW\КОМПЫ\Компы12\WpfApp1\bin\x64\Debug\ДопингБДDataSet.xss
+C:\Users\user\Desktop\Проект Дани\NEW\КОМПЫ\Компы12\WpfApp1\bin\x64\Debug\WpfApp1.exe.config
+C:\Users\user\Desktop\Проект Дани\NEW\КОМПЫ\Компы12\WpfApp1\bin\x64\Debug\WpfApp1.exe
+C:\Users\user\Desktop\Проект Дани\NEW\КОМПЫ\Компы12\WpfApp1\bin\x64\Debug\WpfApp1.pdb
+C:\Users\user\Desktop\Проект Дани\NEW\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Проект Дани\NEW\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Проект Дани\NEW\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\Bespereboy.g.cs
+C:\Users\user\Desktop\Проект Дани\NEW\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\Block.g.cs
+C:\Users\user\Desktop\Проект Дани\NEW\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\doping1.g.cs
+C:\Users\user\Desktop\Проект Дани\NEW\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\doping2.g.cs
+C:\Users\user\Desktop\Проект Дани\NEW\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\doping3.g.cs
+C:\Users\user\Desktop\Проект Дани\NEW\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\doping4.g.cs
+C:\Users\user\Desktop\Проект Дани\NEW\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\doping8.g.cs
+C:\Users\user\Desktop\Проект Дани\NEW\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\Keyboard.g.cs
+C:\Users\user\Desktop\Проект Дани\NEW\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\Komplekt.g.cs
+C:\Users\user\Desktop\Проект Дани\NEW\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\Проект Дани\NEW\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\Mause.g.cs
+C:\Users\user\Desktop\Проект Дани\NEW\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\Monitor.g.cs
+C:\Users\user\Desktop\Проект Дани\NEW\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\vxod1.g.cs
+C:\Users\user\Desktop\Проект Дани\NEW\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\vxod2.g.cs
+C:\Users\user\Desktop\Проект Дани\NEW\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\vxod3.g.cs
+C:\Users\user\Desktop\Проект Дани\NEW\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\App.g.cs
+C:\Users\user\Desktop\Проект Дани\NEW\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\WpfApp1_Content.g.cs
+C:\Users\user\Desktop\Проект Дани\NEW\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\user\Desktop\Проект Дани\NEW\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\user\Desktop\Проект Дани\NEW\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\Bespereboy.baml
+C:\Users\user\Desktop\Проект Дани\NEW\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\Block.baml
+C:\Users\user\Desktop\Проект Дани\NEW\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\doping1.baml
+C:\Users\user\Desktop\Проект Дани\NEW\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\doping2.baml
+C:\Users\user\Desktop\Проект Дани\NEW\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\doping3.baml
+C:\Users\user\Desktop\Проект Дани\NEW\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\doping4.baml
+C:\Users\user\Desktop\Проект Дани\NEW\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\doping8.baml
+C:\Users\user\Desktop\Проект Дани\NEW\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\Keyboard.baml
+C:\Users\user\Desktop\Проект Дани\NEW\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\Komplekt.baml
+C:\Users\user\Desktop\Проект Дани\NEW\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\MainWindow.baml
+C:\Users\user\Desktop\Проект Дани\NEW\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\Mause.baml
+C:\Users\user\Desktop\Проект Дани\NEW\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\Monitor.baml
+C:\Users\user\Desktop\Проект Дани\NEW\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\vxod1.baml
+C:\Users\user\Desktop\Проект Дани\NEW\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\vxod2.baml
+C:\Users\user\Desktop\Проект Дани\NEW\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\vxod3.baml
+C:\Users\user\Desktop\Проект Дани\NEW\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\WpfApp1.g.resources
+C:\Users\user\Desktop\Проект Дани\NEW\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\user\Desktop\Проект Дани\NEW\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Проект Дани\NEW\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Проект Дани\NEW\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\WpfApp1.exe
+C:\Users\user\Desktop\Проект Дани\NEW\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\WpfApp1.pdb
+C:\Users\user\Desktop\Проект Дани\NEW\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\ClassRoom.g.cs
+C:\Users\user\Desktop\Проект Дани\NEW\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\ClassRoom.baml
+C:\Users\user\Desktop\Проект Дани\NEW\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\Users.g.cs
+C:\Users\user\Desktop\Проект Дани\NEW\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\Prep.g.cs
+C:\Users\user\Desktop\Проект Дани\NEW\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\Users.baml
+C:\Users\user\Desktop\Проект Дани\NEW\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\Prep.baml
+E:\C#\Допинг!\NEW\КОМПЫ\Компы12\WpfApp1\bin\x64\Debug\ДопингБДDataSet.Designer.cs
+E:\C#\Допинг!\NEW\КОМПЫ\Компы12\WpfApp1\bin\x64\Debug\ДопингБДDataSet.xsc
+E:\C#\Допинг!\NEW\КОМПЫ\Компы12\WpfApp1\bin\x64\Debug\ДопингБДDataSet.xsd
+E:\C#\Допинг!\NEW\КОМПЫ\Компы12\WpfApp1\bin\x64\Debug\ДопингБДDataSet.xss
+E:\C#\Допинг!\NEW\КОМПЫ\Компы12\WpfApp1\bin\x64\Debug\WpfApp1.exe.config
+E:\C#\Допинг!\NEW\КОМПЫ\Компы12\WpfApp1\bin\x64\Debug\WpfApp1.exe
+E:\C#\Допинг!\NEW\КОМПЫ\Компы12\WpfApp1\bin\x64\Debug\WpfApp1.pdb
+E:\C#\Допинг!\NEW\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\WpfApp1.csproj.AssemblyReference.cache
+E:\C#\Допинг!\NEW\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+E:\C#\Допинг!\NEW\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\Bespereboy.g.cs
+E:\C#\Допинг!\NEW\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\Block.g.cs
+E:\C#\Допинг!\NEW\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\ClassRoom.g.cs
+E:\C#\Допинг!\NEW\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\doping1.g.cs
+E:\C#\Допинг!\NEW\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\doping2.g.cs
+E:\C#\Допинг!\NEW\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\doping3.g.cs
+E:\C#\Допинг!\NEW\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\doping4.g.cs
+E:\C#\Допинг!\NEW\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\doping8.g.cs
+E:\C#\Допинг!\NEW\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\Keyboard.g.cs
+E:\C#\Допинг!\NEW\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\Komplekt.g.cs
+E:\C#\Допинг!\NEW\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\MainWindow.g.cs
+E:\C#\Допинг!\NEW\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\Mause.g.cs
+E:\C#\Допинг!\NEW\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\Monitor.g.cs
+E:\C#\Допинг!\NEW\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\Prep.g.cs
+E:\C#\Допинг!\NEW\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\Users.g.cs
+E:\C#\Допинг!\NEW\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\vxod1.g.cs
+E:\C#\Допинг!\NEW\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\vxod2.g.cs
+E:\C#\Допинг!\NEW\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\vxod3.g.cs
+E:\C#\Допинг!\NEW\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\App.g.cs
+E:\C#\Допинг!\NEW\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\WpfApp1_Content.g.cs
+E:\C#\Допинг!\NEW\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\WpfApp1_MarkupCompile.cache
+E:\C#\Допинг!\NEW\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\WpfApp1_MarkupCompile.lref
+E:\C#\Допинг!\NEW\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\Bespereboy.baml
+E:\C#\Допинг!\NEW\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\Block.baml
+E:\C#\Допинг!\NEW\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\ClassRoom.baml
+E:\C#\Допинг!\NEW\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\doping1.baml
+E:\C#\Допинг!\NEW\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\doping2.baml
+E:\C#\Допинг!\NEW\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\doping3.baml
+E:\C#\Допинг!\NEW\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\doping4.baml
+E:\C#\Допинг!\NEW\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\doping8.baml
+E:\C#\Допинг!\NEW\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\Keyboard.baml
+E:\C#\Допинг!\NEW\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\Komplekt.baml
+E:\C#\Допинг!\NEW\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\MainWindow.baml
+E:\C#\Допинг!\NEW\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\Mause.baml
+E:\C#\Допинг!\NEW\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\Monitor.baml
+E:\C#\Допинг!\NEW\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\Prep.baml
+E:\C#\Допинг!\NEW\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\Users.baml
+E:\C#\Допинг!\NEW\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\vxod1.baml
+E:\C#\Допинг!\NEW\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\vxod2.baml
+E:\C#\Допинг!\NEW\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\vxod3.baml
+E:\C#\Допинг!\NEW\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\WpfApp1.g.resources
+E:\C#\Допинг!\NEW\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\WpfApp1.Properties.Resources.resources
+E:\C#\Допинг!\NEW\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\WpfApp1.csproj.GenerateResource.cache
+E:\C#\Допинг!\NEW\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+E:\C#\Допинг!\NEW\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\WpfApp1.exe
+E:\C#\Допинг!\NEW\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\WpfApp1.pdb
+E:\NEW\NEW2.2\КОМПЫ\Компы12\WpfApp1\bin\x64\Debug\ДопингБДDataSet.Designer.cs
+E:\NEW\NEW2.2\КОМПЫ\Компы12\WpfApp1\bin\x64\Debug\ДопингБДDataSet.xsc
+E:\NEW\NEW2.2\КОМПЫ\Компы12\WpfApp1\bin\x64\Debug\ДопингБДDataSet.xsd
+E:\NEW\NEW2.2\КОМПЫ\Компы12\WpfApp1\bin\x64\Debug\ДопингБДDataSet.xss
+E:\NEW\NEW2.2\КОМПЫ\Компы12\WpfApp1\bin\x64\Debug\WpfApp1.exe.config
+E:\NEW\NEW2.2\КОМПЫ\Компы12\WpfApp1\bin\x64\Debug\WpfApp1.exe
+E:\NEW\NEW2.2\КОМПЫ\Компы12\WpfApp1\bin\x64\Debug\WpfApp1.pdb
+E:\NEW\NEW2.2\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\WpfApp1.csproj.AssemblyReference.cache
+E:\NEW\NEW2.2\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+E:\NEW\NEW2.2\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\ClassRoom.g.cs
+E:\NEW\NEW2.2\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\doping1.g.cs
+E:\NEW\NEW2.2\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\doping2.g.cs
+E:\NEW\NEW2.2\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\doping3.g.cs
+E:\NEW\NEW2.2\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\doping8.g.cs
+E:\NEW\NEW2.2\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\Komplekt.g.cs
+E:\NEW\NEW2.2\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\MainWindow.g.cs
+E:\NEW\NEW2.2\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\Prep.g.cs
+E:\NEW\NEW2.2\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\Users.g.cs
+E:\NEW\NEW2.2\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\vxod1.g.cs
+E:\NEW\NEW2.2\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\vxod2.g.cs
+E:\NEW\NEW2.2\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\vxod3.g.cs
+E:\NEW\NEW2.2\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\App.g.cs
+E:\NEW\NEW2.2\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\WpfApp1_Content.g.cs
+E:\NEW\NEW2.2\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\WpfApp1_MarkupCompile.cache
+E:\NEW\NEW2.2\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\WpfApp1_MarkupCompile.lref
+E:\NEW\NEW2.2\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\ClassRoom.baml
+E:\NEW\NEW2.2\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\doping1.baml
+E:\NEW\NEW2.2\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\doping2.baml
+E:\NEW\NEW2.2\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\doping3.baml
+E:\NEW\NEW2.2\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\doping8.baml
+E:\NEW\NEW2.2\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\Komplekt.baml
+E:\NEW\NEW2.2\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\MainWindow.baml
+E:\NEW\NEW2.2\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\Prep.baml
+E:\NEW\NEW2.2\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\Users.baml
+E:\NEW\NEW2.2\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\vxod1.baml
+E:\NEW\NEW2.2\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\vxod2.baml
+E:\NEW\NEW2.2\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\vxod3.baml
+E:\NEW\NEW2.2\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\WpfApp1.g.resources
+E:\NEW\NEW2.2\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\WpfApp1.Properties.Resources.resources
+E:\NEW\NEW2.2\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\WpfApp1.csproj.GenerateResource.cache
+E:\NEW\NEW2.2\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+E:\NEW\NEW2.2\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\WpfApp1.exe
+E:\NEW\NEW2.2\КОМПЫ\Компы12\WpfApp1\obj\x64\Debug\WpfApp1.pdb

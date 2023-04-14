@@ -1,0 +1,38 @@
+﻿<Window x:Class="WpfApp1.Komplekt"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="Komplekt" Height="738" Width="1031" Initialized="Window_Initialized" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <DataGrid x:Name="KomplektGrid" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="86,25,86,464"/>
+        <Button Content="Назад" HorizontalAlignment="Left" Margin="908,638,0,0" VerticalAlignment="Top" Click="Button_Click"/>
+        <TextBox x:Name="txtName" HorizontalAlignment="Left" Margin="101,301,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="TextBox_TextChanged" Height="22"/>
+        <ComboBox x:Name="comMouse" HorizontalAlignment="Left" Margin="255,301,0,0" VerticalAlignment="Top" Width="91" RenderTransformOrigin="0.56,0.958"/>
+        <ComboBox x:Name="comKey" HorizontalAlignment="Left" Margin="371,301,0,0" VerticalAlignment="Top" Width="91"/>
+        <ComboBox x:Name="comMon" HorizontalAlignment="Left" Margin="491,301,0,0" VerticalAlignment="Top" Width="91"/>
+        <ComboBox x:Name="comBlock" HorizontalAlignment="Left" Margin="604,301,0,0" VerticalAlignment="Top" Width="91"/>
+        <ComboBox x:Name="comBes" HorizontalAlignment="Left" Margin="725,301,0,0" VerticalAlignment="Top" Width="91"/>
+        <TextBox x:Name="txtCol" HorizontalAlignment="Left" Margin="846,301,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" PreviewTextInput="txtCol_PreviewTextInput" Height="22"/>
+        <Button Content="Внести" HorizontalAlignment="Left" Margin="34,297,0,0" VerticalAlignment="Top" Click="Button_Click_1"/>
+        <Button Content="Удалить" Margin="34,382,0,0" VerticalAlignment="Top" Click="Button_Click_2" Height="25" HorizontalContentAlignment="Center" Width="75" HorizontalAlignment="Left"/>
+        <ComboBox x:Name="comKomplect" HorizontalAlignment="Left" Margin="131,384,0,0" VerticalAlignment="Top" Width="90" RenderTransformOrigin="0.033,0.594"/>
+        <TextBox x:Name="txtKomplect" HorizontalAlignment="Left" Margin="371,386,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="TextBox_TextChanged_1" PreviewTextInput="TextBox_PreviewTextInput"/>
+        <Button Content="Удалить" HorizontalAlignment="Left" Margin="292,385,0,0" VerticalAlignment="Top" Height="20" Width="54" Click="Button_Click_3"/>
+        <Label Content="Название" HorizontalAlignment="Left" Margin="130,272,0,0" VerticalAlignment="Top"/>
+        <Label Content="Мышь" HorizontalAlignment="Left" Margin="278,272,0,0" VerticalAlignment="Top"/>
+        <Label Content="Клавиатура" HorizontalAlignment="Left" Margin="380,272,0,0" VerticalAlignment="Top"/>
+        <Label Content="Монитор" HorizontalAlignment="Left" Margin="506,272,0,0" VerticalAlignment="Top"/>
+        <Label Content="Блок" HorizontalAlignment="Left" Margin="631,272,0,0" VerticalAlignment="Top"/>
+        <Label Content="Бесперебойник" HorizontalAlignment="Left" Margin="722,272,0,0" VerticalAlignment="Top"/>
+        <Label Content="Колливчетво" HorizontalAlignment="Left" Margin="865,272,0,0" VerticalAlignment="Top"/>
+        <Label Content=" Название&#xD;&#xA;комплекта" HorizontalAlignment="Left" Margin="141,342,0,0" VerticalAlignment="Top" Height="46" Width="70"/>
+        <Label Content="Код комплекта" HorizontalAlignment="Left" Margin="385,358,0,0" VerticalAlignment="Top"/>
+        <ComboBox x:Name="comName" HorizontalAlignment="Left" Margin="255,445,0,0" VerticalAlignment="Top" Width="57"/>
+        <ComboBox x:Name="comKomplekt" HorizontalAlignment="Left" Margin="34,444,0,0" VerticalAlignment="Top" Width="187"/>
+        <TextBox x:Name="txtKol" HorizontalAlignment="Left" Margin="344,445,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="44" Height="22" PreviewTextInput="txtKol_PreviewTextInput"/>
+        <Button Content="Дабавить" HorizontalAlignment="Left" Margin="431,446,0,0" VerticalAlignment="Top" Width="85" Click="Button_Click_4"/>
+    </Grid>
+</Window>
