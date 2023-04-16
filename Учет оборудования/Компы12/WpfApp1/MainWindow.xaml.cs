@@ -27,26 +27,7 @@ namespace WpfApp1
             InitializeComponent();
         }
 
-        private void Button_Click_3(object sender, RoutedEventArgs e)
-        {
-            vxod2 Vxod2 = new vxod2();
-            Vxod2.Show();
-            this.Close();
-        }
-
-        private void Button_Click(object sender, RoutedEventArgs e)
-        {
-            vxod1 Vxod1 = new vxod1();
-            Vxod1.Show();
-            this.Close();
-        }
-
-        private void Button_Click_2(object sender, RoutedEventArgs e)
-        {
-            vxod3 Vxod3 = new vxod3();
-            Vxod3.Show();
-            this.Close();
-        }
+        
 
         private void Button_Click_1(object sender, RoutedEventArgs e)
         {

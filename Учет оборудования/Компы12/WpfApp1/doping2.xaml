@@ -5,11 +5,11 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WpfApp1"
         mc:Ignorable="d"
-        Title="doping2" Height="360" Width="284" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+        Title="doping2" Height="354" Width="215" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
     <Grid>
         <Button Content="Все устройства" HorizontalAlignment="Left" Margin="46,56,0,0" VerticalAlignment="Top" Height="41" Width="125" Click="Button_Click"/>
         <Button Content="Комплекты" HorizontalAlignment="Left" Margin="46,134,0,0" VerticalAlignment="Top" Height="41" Width="125" Click="Button_Click_3"/>
-        <Button Content="Назад" HorizontalAlignment="Left" Margin="90,230,0,0" VerticalAlignment="Top" Height="41" Width="125" Click="Button_Click_2"/>
+        <Button Content="Назад" HorizontalAlignment="Left" Margin="46,234,0,0" VerticalAlignment="Top" Height="29" Width="64" Click="Button_Click_2"/>
 
     </Grid>
 </Window>

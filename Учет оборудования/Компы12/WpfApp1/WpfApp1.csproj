@@ -101,20 +101,20 @@
     <Compile Include="Users.xaml.cs">
       <DependentUpon>Users.xaml</DependentUpon>
     </Compile>
-    <Compile Include="vxod1.xaml.cs">
-      <DependentUpon>vxod1.xaml</DependentUpon>
-    </Compile>
-    <Compile Include="vxod2.xaml.cs">
-      <DependentUpon>vxod2.xaml</DependentUpon>
-    </Compile>
-    <Compile Include="vxod3.xaml.cs">
-      <DependentUpon>vxod3.xaml</DependentUpon>
-    </Compile>
     <Compile Include="ДопингБДDataSet.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>ДопингБДDataSet.xsd</DependentUpon>
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="ОтчетКласс.xaml.cs">
+      <DependentUpon>ОтчетКласс.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ОтчетКомплект.xaml.cs">
+      <DependentUpon>ОтчетКомплект.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ОтчетУстройства.xaml.cs">
+      <DependentUpon>ОтчетУстройства.xaml</DependentUpon>
     </Compile>
     <Page Include="ClassRoom.xaml">
       <SubType>Designer</SubType>
@@ -160,15 +160,15 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="vxod1.xaml">
+    <Page Include="ОтчетКласс.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="vxod2.xaml">
+    <Page Include="ОтчетКомплект.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="vxod3.xaml">
+    <Page Include="ОтчетУстройства.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

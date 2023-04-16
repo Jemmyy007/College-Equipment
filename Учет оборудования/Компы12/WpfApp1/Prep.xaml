@@ -10,6 +10,8 @@
         <DataGrid x:Name="GridClass" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="64,22,64,187"/>
         <TextBox x:Name="txtSearch" HorizontalAlignment="Left" Margin="116,267,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="589" TextChanged="TextBox_TextChanged"/>
         <Label Content="Поиск:" HorizontalAlignment="Left" Margin="64,263,0,0" VerticalAlignment="Top"/>
+        <Button Content="Выход" HorizontalAlignment="Left" Margin="66,375,0,0" VerticalAlignment="Top" Click="Button_Click" Height="27" Width="45"/>
+        <Button Content="Отчет" HorizontalAlignment="Left" Margin="688,375,0,0" VerticalAlignment="Top" Height="27" Width="48" Click="Button_Click_1"/>
 
     </Grid>
 </Window>

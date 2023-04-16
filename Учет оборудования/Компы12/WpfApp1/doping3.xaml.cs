@@ -533,5 +533,11 @@ namespace WpfApp1
             }
             con.Close() ;
         }
+
+        private void Button_Click_10(object sender, RoutedEventArgs e)
+        {
+            ОтчетУстройства otchet = new ОтчетУстройства();
+            otchet.Show();
+        }
     }
 }

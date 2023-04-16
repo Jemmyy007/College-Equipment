@@ -45,7 +45,8 @@ namespace WpfApp1
         {
             Komplekt komplekt = new Komplekt();
             komplekt.Show();
-            
+            this.Close();
+
         }
     }
 }

@@ -63,5 +63,19 @@ namespace WpfApp1
 
             GridClass.ItemsSource = ds.Tables["Кабинеты"].DefaultView; // Заполнение грида нужной базой
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            this.Hide();
+            MainWindow main = new MainWindow();
+            main.Show();
+            this.Close();
+        }
+
+        private void Button_Click_1(object sender, RoutedEventArgs e)
+        {
+            ОтчетКласс classroom = new ОтчетКласс();
+            classroom.Show();
+        }
     }
 }

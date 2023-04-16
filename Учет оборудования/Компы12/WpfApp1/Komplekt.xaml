@@ -8,7 +8,7 @@
         Title="Komplekt" Height="738" Width="1031" Initialized="Window_Initialized" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
     <Grid>
         <DataGrid x:Name="KomplektGrid" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="86,25,86,464"/>
-        <Button Content="Назад" HorizontalAlignment="Left" Margin="908,638,0,0" VerticalAlignment="Top" Click="Button_Click"/>
+        <Button Content="Назад" HorizontalAlignment="Left" Margin="72,644,0,0" VerticalAlignment="Top" Click="Button_Click" Height="35" Width="56"/>
         <TextBox x:Name="txtName" HorizontalAlignment="Left" Margin="101,301,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="TextBox_TextChanged" Height="22"/>
         <ComboBox x:Name="comMouse" HorizontalAlignment="Left" Margin="255,301,0,0" VerticalAlignment="Top" Width="91" RenderTransformOrigin="0.56,0.958"/>
         <ComboBox x:Name="comKey" HorizontalAlignment="Left" Margin="371,301,0,0" VerticalAlignment="Top" Width="91"/>
@@ -34,5 +34,6 @@
         <ComboBox x:Name="comKomplekt" HorizontalAlignment="Left" Margin="34,444,0,0" VerticalAlignment="Top" Width="187"/>
         <TextBox x:Name="txtKol" HorizontalAlignment="Left" Margin="344,445,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="44" Height="22" PreviewTextInput="txtKol_PreviewTextInput"/>
         <Button Content="Дабавить" HorizontalAlignment="Left" Margin="431,446,0,0" VerticalAlignment="Top" Width="85" Click="Button_Click_4"/>
+        <Button Content="Отчет" HorizontalAlignment="Left" Margin="906,648,0,0" VerticalAlignment="Top" Height="31" Width="53" Click="Button_Click_10"/>
     </Grid>
 </Window>

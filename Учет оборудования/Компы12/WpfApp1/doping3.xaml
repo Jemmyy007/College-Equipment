@@ -53,5 +53,6 @@
         <Button Content="Удалить всё по названию" HorizontalAlignment="Left" Margin="124,573,0,0" VerticalAlignment="Top" Width="146" Click="Button_Click_8"/>
         <Button Content="Изменить" HorizontalAlignment="Left" Margin="353,573,0,0" VerticalAlignment="Top" Click="Button_Click_9"/>
         <TextBox x:Name="txtName" HorizontalAlignment="Left" Margin="124,540,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="146" IsEnabled="False"/>
+        <Button Content="Отчет" HorizontalAlignment="Left" Margin="716,614,0,0" VerticalAlignment="Top" Height="31" Width="53" Click="Button_Click_10"/>
     </Grid>
 </Window>

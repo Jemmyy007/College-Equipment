@@ -40,6 +40,16 @@ namespace WpfApp1
 
             string naz = txtName.Text;
 
+            string coun = $"SELECT COUNT(*) FROM Комплект WHERE Название = '{naz}'";
+            OleDbCommand cmdCoun = new OleDbCommand(coun, con);
+            int col1 = Convert.ToInt32(cmdCoun.ExecuteScalar());
+
+            if (col1 > 0)
+            {
+                MessageBox.Show("Комплект с таким названием уже существует!");
+                return;
+            }
+
             if (naz == "")
             {
                 MessageBox.Show("Введите название комплекта!");
@@ -266,7 +276,7 @@ namespace WpfApp1
             da.Fill(ds, "Комплект");
 
             KomplektGrid.ItemsSource = ds.Tables["Комплект"].DefaultView; // Заполнение грида нужной базой
-            con.Close();
+            
 
             MessageBox.Show($"Комплекты с названием {kom} были удалены!");
             ComboKomplect();
@@ -349,7 +359,7 @@ namespace WpfApp1
                     da.Fill(ds, "Комплект");
 
                     KomplektGrid.ItemsSource = ds.Tables["Комплект"].DefaultView; // Заполнение грида нужной базой
-                    con.Close();
+                    
 
                     MessageBox.Show($"Комплекты с названием {kom} были удалены!");
                     Komplect();
@@ -474,6 +484,12 @@ namespace WpfApp1
             {
                 e.Handled = true;
             }
+        }
+
+        private void Button_Click_10(object sender, RoutedEventArgs e)
+        {
+            ОтчетКомплект otchet = new ОтчетКомплект();
+            otchet.Show();
         }
 
         private void Window_Initialized(object sender, EventArgs e)
