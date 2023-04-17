@@ -1,0 +1,35 @@
+﻿<Window x:Class="WpfApp1.ОтчетУстройства"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="Отчет" Height="755" Width="621">
+    <Grid x:Name="Print" Background="White">
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid x:Name="logoContainer1">
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="0*"/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Label x:Name="lN" Content="Отчет" HorizontalAlignment="Left" Margin="40,121,0,0" VerticalAlignment="Top" FontFamily="Dubai Medium" FontSize="48" Foreground="Black" Width="862" Grid.Row="1" Height="85" Background="#00000000"/>
+            <Label x:Name="lAll" Content="Всего устройств: " HorizontalAlignment="Left" Margin="40,211,0,0" VerticalAlignment="Top" FontFamily="Dubai Medium" FontSize="30" Foreground="Black" Width="849" Grid.Row="1" Height="61" Background="#00000000"/>
+            <Label x:Name="lMouse" Content="Мышки: " HorizontalAlignment="Left" Margin="40,277,0,0" VerticalAlignment="Top" FontFamily="Dubai Medium" FontSize="30" Foreground="Black" Width="835" Grid.Row="1" Height="61" Background="#00000000"/>
+            <Label x:Name="lKeyboard" Content="Клавиатуры: " HorizontalAlignment="Left" Margin="40,541,0,0" VerticalAlignment="Top" FontFamily="Dubai Medium" FontSize="30" Foreground="Black" Width="360" Grid.Row="1" Height="61" Background="#00000000"/>
+            <Label x:Name="lBlock" Content="Блоки: " HorizontalAlignment="Left" Margin="40,343,0,0" VerticalAlignment="Top" FontFamily="Dubai Medium" FontSize="30" Foreground="Black" Width="835" Grid.Row="1" Height="61" Background="#00000000"/>
+            <Label x:Name="lMonitor" Content="Мониторы: " HorizontalAlignment="Left" Margin="40,409,0,0" VerticalAlignment="Top" FontFamily="Dubai Medium" FontSize="30" Foreground="Black" Width="835" Grid.Row="1" Height="61" Background="#00000000"/>
+            <Label x:Name="lBes" Content="Бесперебойники: " HorizontalAlignment="Left" Margin="40,475,0,0" VerticalAlignment="Top" FontFamily="Dubai Medium" FontSize="30" Foreground="Black" Width="835" Grid.Row="1" Height="61" Background="#00000000"/>
+            <Label x:Name="lDate" Content="Дата: " HorizontalAlignment="Left" Margin="40,644,0,0" VerticalAlignment="Top" FontFamily="Dubai Medium" FontSize="30" Foreground="Black" Width="360" Grid.Row="1" Height="61" Background="#00000000"/>
+
+        </Grid>
+        <Grid x:Name="up" Grid.Row="0" Grid.RowSpan="1" Margin="2,0,0,636">
+            <Button Content="Печать" HorizontalAlignment="Left" Margin="461,21,0,0" VerticalAlignment="Top" Click="Button_Click" Height="46" Width="135"/>
+        </Grid>
+
+        <Grid x:Name="logoContainer" Margin="2,74,-2,9"/>
+    </Grid>
+</Window>

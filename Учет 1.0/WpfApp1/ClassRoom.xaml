@@ -1,0 +1,19 @@
+﻿<Window x:Class="WpfApp1.ClassRoom"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="Кабинеты" Height="395" Width="800" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid  Background="#FF403DA5">
+        <DataGrid x:Name="gridClass" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="0,0,0,144"/>
+        <Button Content="Добавить" HorizontalAlignment="Left" Margin="45,256,0,0" VerticalAlignment="Top" Click="Button_Click"/>
+        <TextBox x:Name="txtClassNaz" HorizontalAlignment="Left" Margin="156,258,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="158" Height="37"/>
+        <Button Content="Назад" HorizontalAlignment="Left" Margin="712,258,0,0" VerticalAlignment="Top" Click="Button_Click_3" Width="66"/>
+        <Button Content="Удалить" HorizontalAlignment="Left" Margin="45,313,0,0" VerticalAlignment="Top" Click="Click2" Width="81"/>
+        <TextBox x:Name="txtKod" HorizontalAlignment="Left" Margin="214,314,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="100" Height="37" TextInput="txtKod_TextInput"/>
+        <Label Content="Код:" HorizontalAlignment="Left" Margin="156,314,0,0" VerticalAlignment="Top" Foreground="White" Height="37" Width="53" FontSize="18"/>
+
+    </Grid>
+</Window>
